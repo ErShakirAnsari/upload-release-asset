@@ -1,5 +1,5 @@
 name: 'Attach a Release Asset'
-description: 'Upload a release asset to an existing release in your repository'
+description: 'Attach a release asset to an existing release in your repository'
 author: 'ershakiransari'
 inputs:
   upload_url:
